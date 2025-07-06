@@ -74,6 +74,12 @@ button:active {
 .fa-twitter {
     font-size: 1.5rem;
 }
+span#category {
+    background-color: #0af;
+    color: #ffffff;
+    border-radius: 6px;
+
+}
 
 
 
