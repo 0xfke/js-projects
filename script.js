@@ -7,7 +7,7 @@ const twitterBtn = document.getElementById('twitter');
 
 
 const API_URL = 'https://api.api-ninjas.com/v1/quotes';
-const API_KEY = 'FYsj1NCouQTLy/VcPFkhHw==QJIm5QV3AbYgXyHY';
+const API_KEY = '';
 
 // Fetch a quote from API
 async function fetchQuote() {
